@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+#button1{
+    position:absolute;
+    font-size: 5em;
+    width: 500px;
+    height: 100px;
+}
